@@ -1,0 +1,20 @@
+{
+  "name": "datagrid166",
+  "userId": null,
+  "domoClientId": null,
+  "domoClientSecret": null,
+  "additionalInfo": null,
+  "days": 7,
+  "reports": null,
+  "advancedReports": null,
+  "visibilityType": null,
+  "parameters": null,
+  "showAdvanced": false,
+  "workbenchEnabled": false,
+  "description": null,
+  "tags": null,
+  "successResponseDefinition": null,
+  "errorResponseDefinition": null,
+  "updateCode": false,
+  "testingProfiles": null
+}
